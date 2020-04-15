@@ -9,5 +9,6 @@ object Test extends App{
   println(" this is something new ")
   println("yo yo ")
   println(" this is what i know")
+  println (" cow ")
 
 }
