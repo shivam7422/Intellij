@@ -9,4 +9,7 @@ object Test extends App{
   println(" this is what we can do ")
   println(" this is bottle ")
   println(" this is me too ")
+  println(" this is table ")
+  println(" this is something new ")
+  println("yo yo ")
 }
