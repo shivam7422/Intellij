@@ -26,11 +26,9 @@ class door extends Exam
     print(" this is door ")
   }
 }
-
 object mos extends App{
   val s= new door
   s.details
   s.details1
   s.details2
-
 }
