@@ -10,4 +10,5 @@ object Test extends App{
   println(" this is bottle ")
   println(" this is me too ")
   println(" this is chair  ")
+  println(" this is mobile ")
 }
