@@ -2,7 +2,7 @@ package Test
 
 class Student
 {
-  val art="shivam"
+  val art="Shivam Tiwari"
 }
 class Teacher extends Student
 {
