@@ -6,6 +6,6 @@ object Test extends App{
   println(" this is something")
   println(" this is you")
   println(" this is table ")
-  println(" this is something new")
+  println(" this is something new ")
 
 }
