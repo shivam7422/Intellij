@@ -39,5 +39,6 @@ object apps  extends  App{
   z.details
   z.details3
   z.details3
+  z.details3
 
 }
