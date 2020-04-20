@@ -9,6 +9,13 @@ class Ram
   }
 
 }
+class shyam
+{
+  def details4: Unit =
+  {
+    println(" this is working now")
+  }
+}
 class Mohan extends Ram
 {
   def details2: Unit =
@@ -25,6 +32,8 @@ class Sohan extends Mohan
 }
 object apps  extends  App{
 
+  val e= new shyam
+  e.details4
   val z= new Sohan
   z.details2
   z.details
